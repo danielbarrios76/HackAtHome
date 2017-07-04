@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">Hack@Home</string>
+    <string name="textViewEmail">E-Mail:</string>
+    <string name="textViewPassword">Password:</string>
+    <string name="buttonValidate">Validate</string>
+    <string name="textViewEvidence">Evidence</string>
+  <string name="textViewDescription">Description</string>
+  
+  
+</resources>
