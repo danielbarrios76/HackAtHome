@@ -1,15 +1,14 @@
 ﻿using Android.App;
-using Android.Widget;
 using Android.OS;
-using HackAtHome.SAL;
+using Android.Widget;
 using HackAtHome.Entities;
-using HackAtHome.CustomAdapters;
+using HackAtHome.SAL;
 
 
 
 namespace HackAtHome.Client
 {
-    [Activity(Label = "@string/ApplicationName", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "@string/ApplicationName", Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
